@@ -1,0 +1,113 @@
+
+
+body {  padding: 0;
+        margin: 0;
+        background: #654f22;
+        font: 16px Palatino Linotype, serif;
+        color: #E6E664; } 
+
+#wrapper {
+        width: 1024px;
+        margin: 0 auto; }
+
+h1 {    margin: 10px auto;
+        text-align: center; }
+
+ul {    width: 675px;
+        height: 80px;
+        margin: 30px auto 10px auto; }
+
+#list li {
+        float: left;
+        list-style: none;
+        border: 3px solid #CB9E4D;
+        border-radius: 6px;
+        background: #fff;
+        box-shadow: 5px 5px 3px #CB9E4D;
+        height: 50px;
+        margin-left: 25px; }
+
+#list li a {
+        text-align: center;
+        text-decoration: none;
+        display: block;
+        height: 30px;
+        padding: 10px;
+        font: 20px Palatino Linotype, serif;
+        background: #E9E0C1;
+        color: #502D11;}
+
+#list li.clear {
+        margin-left: 0;}
+
+#wrapper iframe {
+        padding: 10px;
+        margin-left: 45px; }
+
+#jule { height: 560px;
+        width: 900px;
+        border: 3px solid #CB9E4D;
+        border-radius: 6px;
+        box-shadow: 5px 5px 3px #CB9E4D;
+        background: #E9E0C1;
+        color: #502D11;}
+
+img.jule {
+        padding: 85px 25px;
+        float: left;}
+
+#jule p, #gerbert p {
+        padding-right: 25px;}
+
+#london {
+        height: 560px;
+        width: 900px;
+        border: 3px solid #CB9E4D;
+        border-radius: 6px;
+        box-shadow: 5px 5px 3px #CB9E4D;
+        background: #E9E0C1;
+        color: #502D11;}
+
+img.london {
+        padding: 85px 25px;
+        float: left; }
+
+#london p, #london h3, #henry p, #henry h3 {
+        padding-left: 25px;}
+
+#gerbert {
+        height: 560px;
+        width: 900px;
+        border: 3px solid #CB9E4D;
+        border-radius: 6px;
+        box-shadow: 5px 5px 3px #CB9E4D;
+        background: #E9E0C1;
+        color: #502D11;}
+
+img.gerbert {
+        padding: 35px 25px;
+        float: left;}
+
+#henry {
+        height: 560px;
+        width: 900px;
+        border: 3px solid #CB9E4D;
+        border-radius: 6px;
+        box-shadow: 5px 5px 3px #CB9E4D;
+        background: #E9E0C1;
+        color: #502D11;}
+
+img.henry {
+        padding: 85px 25px;
+        float: right;}
+
+#footer {
+        height: 80px;
+        width: 300px;
+        padding: 20px;
+        margin-left: 45px;}
+
+#footer a {
+        text-decoration: none;
+        font: 20px Palatino Linotype, serif;
+        color: #E6E664; }
